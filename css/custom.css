@@ -1,0 +1,6 @@
+/* your styles go here */
+.clients-img img-fluid{
+  width: 100px;
+  height: 100px;
+}
+@media (min-width: 576px)
